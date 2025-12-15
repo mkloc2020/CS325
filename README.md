@@ -1,4 +1,6 @@
-The following projects show my ability to clean and analyze data using advanced techniques which highlight my critical thinking, problem-solving, attention to detail, and communication skills. 
+The following projects show my ability to clean and analyze data using advanced techniques which highlight my critical thinking, problem-solving, attention to detail, and communication skills. Below are the scenarios for Projects 1 through 3. 
+
+View the docx files with the python files to see my data validation reports based on each project. Project 1 does not have a python file.
 
 --------------------------------------------
 
